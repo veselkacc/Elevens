@@ -25,4 +25,17 @@ Activity 7
 
     e. anotherPlayIsPossible();
 
+Activity 8
+
+1. All games all involve playing cards and numbers equaling other numbers, all will use a dealing function as well as a size and empty function for shuffling. Some things would be different when put into the other games, like isLegal() and anotherPlayIsPossible because of how those are calculated for elevens.
+
+2. ElevensBoard extends Board, it inherits the variables it inits for to change.
+
+3. They do. All of the methods that will work between games are put into the Board classe, but the methods that would be different are abstract, so they are implemented in each game individually.
+
+
+
+
+
+
 
