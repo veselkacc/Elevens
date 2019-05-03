@@ -19,7 +19,7 @@ Activity 7
 
     c. 0,1,3,6,7
 
-    d. for(int i: i<x, i++) {
+    d. for(int i: i<integer.length, i++) {
         System.out.println(board.cards[i].toString());
     }
 
